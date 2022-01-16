@@ -5,8 +5,8 @@ import { useMoralis } from 'react-moralis'
 import Login from "../components/Login"
 export default function Home() {
   
-  const {isAuth,logout}=useMoralis();
-  if(!isAuth) {return <Login/>}
+  const {isAuthenticated,logout}=useMoralis();
+  if(!isAuthenticated) return <Login/>;
   return (
     <div className="h-screen">
       <Head>
@@ -15,8 +15,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <h1>welcome</h1>
-      
-      <button onClick={logout}>Logout</button>
+      <div>
+        <div className="max-w-screen-2xl mx-auto"></div>
+      </div>
+      <button  onClick={logout}>Logout</button>
     </div>
   );
 }
