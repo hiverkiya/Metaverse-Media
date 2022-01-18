@@ -1,12 +1,13 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import Messages from "../components/Messages"
 import Header from '../components/Header'
 import styles from '../styles/Home.module.css'
 import { useMoralis } from 'react-moralis'
 import Login from "../components/Login"
 export default function Home() {
   
-  const {isAuthenticated,logout}=useMoralis();
+  const {isAuthenticated}=useMoralis();
   if(!isAuthenticated) return <Login/>;
   return (
     <div className="h-screen overflow-y-scroll bg-gradient-to-b from-black to-fuchsia-400 overflow-hidden">
@@ -18,9 +19,9 @@ export default function Home() {
      
         <div className="max-w-screen-2xl mx-auto">
           <Header/>
+          <Messages/>
         </div>
       
-      <button  onClick={logout}>Logout</button>
     </div>
   );
 }
