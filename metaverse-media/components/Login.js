@@ -18,7 +18,7 @@ function Login() {
 
             <div className="w-full h-screen ">
             <Image
-            src="https://github.com/hiverkiya/Metaverse-Media/blob/main/metaverse-media/media/bg.jpg"
+            src="https://raw.githubusercontent.com/hiverkiya/Metaverse-Media/d788b57e7847aa4d9dcc931029e5d678b50c0d87/metaverse-media/media/bg.jpg"
             layout="fill"
             objectFit="cover"
             
