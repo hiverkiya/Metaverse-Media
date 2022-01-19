@@ -3,7 +3,7 @@ import { useMoralis} from "react-moralis"
 function Avatar({username,logoutOnPress}) {
     
         
-            const{ user,logout}= useMoralis();
+     const{ user,logout}= useMoralis();
     return (<Image
     className="rounded-full bg-black cursor-pointer hover:opacity-70"
     src={`https://avatars.dicebear.com/api/pixel-art/${

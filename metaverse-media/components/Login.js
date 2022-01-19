@@ -13,7 +13,7 @@ function Login() {
             />
             <button 
             onClick={ authenticate}
-            className="bg-yellow-500 rounded-lg p-5 font-bold  animate-pulse">Metaverse Media Login</button>
+            className="bg-yellow-300 rounded-lg p-5 font-bold  animate-pulse">Metaverse Media Login</button>
             </div>
 
             <div className="w-full h-screen ">
