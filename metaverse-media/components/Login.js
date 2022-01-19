@@ -18,7 +18,7 @@ function Login() {
 
             <div className="w-full h-screen ">
             <Image
-            src="https://links.papareact.com/55n"
+            src="https://github.com/hiverkiya/Metaverse-Media/blob/main/metaverse-media/media/bg.jpg"
             layout="fill"
             objectFit="cover"
             
