@@ -10,13 +10,13 @@ function Header() {
          <div className="relative h-24 w-24 mx-auto hidden lg:inline-grid">
         <Image layout="fill" className=" rounded-full" 
          objectFit="cover"
-         src="http://links.papareact.com/3pi"
+         src="https://raw.githubusercontent.com/hiverkiya/Metaverse-Media/main/metaverse-media/media/profile.jpg"
          />
          </div>
         <div className="col-span-4  text-left lg:text-center">
             {/* Avatar*/}
            
-            <div className="h-48 w-48 relative lg:max-auto border-pink-600 border-8 rounded-full"> <Avatar logoutOnPress/></div>
+            <div className="h-48 w-48 relative lg:max-auto border-pink-400 border-8 rounded-full"> <Avatar logoutOnPress/></div>
             {/* Welcome message*/}
             <h1 className="text-3xl">WELCOME TO METAVERSE MEDIA</h1>
             <h2 className="text-5xl font-bold truncate">{user.getUsername()}</h2>
