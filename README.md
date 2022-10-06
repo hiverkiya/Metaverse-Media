@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/34170205/194344112-8880a300-ccf8-4c56-
 - Data stored off the Ethereum's Ropsten testnet chain on Moralis
 - Uses Next.js to speed up page loading and optimize page caching
 - Features a responsive user interface that scales to a screen's size
-- Authentication handled by Web 3 wallets to allow secure login for users
+- Metamask Web 3 wallet handles authentication to allow secure login for users
 - Node.js package manager to install additional dependencies
 ## Tech
 - [Next.JS](https://nextjs.org/) - Production framework for React
@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/34170205/194344112-8880a300-ccf8-4c56-
 - [Node.js](https://nodejs.org/en/) - A Javascript runtime built on Chrome's V8 Javascript engine
 ## Installation
 
-Make sure you have connected to your Metamask wallet and logged in to securely authenticate into the application
+Make sure you have connected to your Metamask wallet and logged in to authenticate into the application securely.
 
 ```sh
 cd .\Metaverse-Media\
