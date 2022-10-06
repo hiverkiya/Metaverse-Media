@@ -1,15 +1,23 @@
 # Medium 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)<img src="https://raw.githubusercontent.com/hiverkiya/Metaverse-Media/main/media/metamask.svg" alt="drawing" style="width:90px; height:-0px;"/><img src="https://raw.githubusercontent.com/hiverkiya/Metaverse-Media/main/media/moralis-powered-by-web3.svg" alt="drawing" style="width:246px; height:-0px;"/>
 
 
 
 https://user-images.githubusercontent.com/34170205/194344112-8880a300-ccf8-4c56-94be-6a745d734603.mp4
 
-
+ 
 
 <p align="center">Metaverse Media features a real-time decentralized chat application that can be authenticated using Web3 wallets</p>
-    
-    
+     <hr/>
+<kbd>
+  <img src="https://raw.githubusercontent.com/hiverkiya/Metaverse-Media/main/media/dash.PNG">
+</kbd>
+     <hr/>
+<kbd>
+  <img src="https://raw.githubusercontent.com/hiverkiya/Metaverse-Media/main/media/server.PNG">
+</kbd>
+     <hr/>
+     
 ## Features
 - Data stored off the Ethereum's Ropsten testnet chain on Moralis
 - Uses Next.js to speed up page loading and optimize page caching
