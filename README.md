@@ -1,4 +1,4 @@
-# Medium 
+# Metaverse Media
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)<img src="https://raw.githubusercontent.com/hiverkiya/Metaverse-Media/main/media/metamask.svg" alt="drawing" style="width:90px; height:-0px;"/><img src="https://raw.githubusercontent.com/hiverkiya/Metaverse-Media/main/media/moralis-powered-by-web3.svg" alt="drawing" style="width:246px; height:-0px;"/>
 
 
