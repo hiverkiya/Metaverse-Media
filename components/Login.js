@@ -13,7 +13,7 @@ function Login() {
       <div className="flex flex-col absolute z-50 h-4/6 items-center justify-center w-full space-y-4">
         <Image
           className="object-cover rounded-full"
-          src="https://raw.githubusercontent.com/hiverkiya/Metaverse-Media/main/metaverse-media/media/profile.jpg"
+          src="https://raw.githubusercontent.com/hiverkiya/Metaverse-Media/main/media/profile.jpg"
           height={200}
           width={200}
           alt=""
@@ -28,7 +28,7 @@ function Login() {
 
       <div className="w-full h-screen ">
         <Image
-          src="https://raw.githubusercontent.com/hiverkiya/Metaverse-Media/main/metaverse-media/media/background.jpg"
+          src="https://raw.githubusercontent.com/hiverkiya/Metaverse-Media/main/media/background.jpg"
           layout="fill"
           objectFit="cover"
           alt=""
