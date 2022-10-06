@@ -1,34 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Medium 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## Getting Started
 
-First, run the development server:
 
-```bash
+https://user-images.githubusercontent.com/34170205/194343667-1256e41b-07ee-4470-8a8e-a7c675121c82.mp4
+
+
+<p align="center">Metaverse Media features a real-time decentralized chat application that can be authenticated using Web3 wallets</p>
+    
+    
+## Features
+- Data stored off the Ethereum's Ropsten testnet chain on Moralis
+- Uses Next.js to speed up page loading and optimize page caching
+- Features a responsive user interface that scales to a screen's size
+- Authentication handled by Web 3 wallets to allow secure login for users
+- Node.js package manager to install additional dependencies
+## Tech
+- [Next.JS](https://nextjs.org/) - Production framework for React
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework packed with classes that can be composed in the markup
+- [Metamask](https://metamask.io/) - A crypto wallet & gateway to blockchain apps
+- [Moralis](https://moralis.io/) - APIs that connect any tech stack to blockchain networks
+- [Node.js](https://nodejs.org/en/) - A Javascript runtime built on Chrome's V8 Javascript engine
+## Installation
+
+Make sure you have connected to your Metamask wallet and logged in to securely authenticate into the application
+
+```sh
+cd .\Metaverse-Media\
+npm install
 npm run dev
-# or
-yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+For production environments
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```sh
+NEXT_PUBLIC_APP_ID = < Moralis App Id >
+NEXT_PUBLIC_SERVER_URL = < Moralis Server URL >
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[![GitHub license](https://img.shields.io/github/license/Verkiya/Let-Us-C-Solutions.svg?style=for-the-badge)](https://github.com/hiverkiya/Medium/blob/main/LICENSE)
