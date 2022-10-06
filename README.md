@@ -3,7 +3,8 @@
 
 
 
-https://user-images.githubusercontent.com/34170205/194343667-1256e41b-07ee-4470-8a8e-a7c675121c82.mp4
+https://user-images.githubusercontent.com/34170205/194344112-8880a300-ccf8-4c56-94be-6a745d734603.mp4
+
 
 
 <p align="center">Metaverse Media features a real-time decentralized chat application that can be authenticated using Web3 wallets</p>
