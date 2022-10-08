@@ -47,4 +47,4 @@ NEXT_PUBLIC_APP_ID = < Moralis App Id >
 NEXT_PUBLIC_SERVER_URL = < Moralis Server URL >
 ```
 
-[![GitHub license](https://img.shields.io/github/license/Verkiya/Let-Us-C-Solutions.svg?style=for-the-badge)](https://github.com/hiverkiya/Medium/blob/main/LICENSE)
+[![GitHub license](https://raw.githubusercontent.com/hiverkiya/Metaverse-Media/main/media/license.svg)](https://github.com/hiverkiya/Metaverse-Media/blob/main/LICENSE)
